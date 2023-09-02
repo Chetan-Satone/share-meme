@@ -9,9 +9,11 @@ Sharememe is an android application which is used to display memes by API calls 
 * Volley - Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster.
 
 # Screenshots
-![photo_2023-09-03_00-45-38](https://github.com/Chetan-Satone/share-meme/assets/102713932/57da7046-ee41-4234-9277-165b6b659673)
 
-![photo_2023-09-03_00-45-36](https://github.com/Chetan-Satone/share-meme/assets/102713932/02a781c2-4367-4303-a614-9261889d6807)
+![photo_2023-09-03_01-04-33](https://github.com/Chetan-Satone/share-meme/assets/102713932/01f6f382-61e1-41c4-9501-4a84a91ca9f6)
 
-![photo_2023-09-03_00-45-40](https://github.com/Chetan-Satone/share-meme/assets/102713932/0a7e19f7-b369-4ed6-8736-7f8c831bb4ea)
+![photo_2023-09-03_01-04-31](https://github.com/Chetan-Satone/share-meme/assets/102713932/05067fb4-73a8-4eb4-90d8-573c624d6696)
 
+![photo_2023-09-03_01-04-28](https://github.com/Chetan-Satone/share-meme/assets/102713932/352594ac-9e72-444f-a37b-bd8f9a3e6e89)
+
+![photo_2023-09-03_01-04-34](https://github.com/Chetan-Satone/share-meme/assets/102713932/d92c5937-1892-4a87-91d9-fbb372a53355)
