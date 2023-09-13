@@ -1,6 +1,6 @@
 # share-meme
 
-Sharememe is an android application which is used to display memes by API calls using Android Volley library and process images using Glide library.
+Sharememe is an Android application that is used to display memes by API calls using Android Volley library and process images using Glide library.
 
 # Built With
 
